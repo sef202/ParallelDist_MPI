@@ -1,0 +1,24 @@
+Process 0 has ID = 50
+Process 1 has ID = 102
+Process 3 has ID = 98
+Process 3 has ID = 98
+Process 0 has become passive
+Process 0 has ID = 50
+Process 0 has ID = 50
+Process 2 has ID = 75
+Process 2 has become passive
+Process 2 has ID = 75
+Process 2 has ID = 75
+Process 1 has ID = 102
+Process 1 has ID = 102
+Process 1 has ID = 102
+Process 0 has ID = 50
+Process 0 has ID = 50
+Process 2 has ID = 75
+Process 2 has ID = 75
+Process 1 has been elected as a leader with ID 102
+Process 3 has become passive
+Process 3 has ID = 98
+Process 3 has ID = 98
+Process 3 has ID = 98
+Process 3 has ID = 98
